@@ -1,0 +1,7 @@
+# GetVersion.srv
+
+# Request
+
+---
+# Response
+Version version

@@ -1,0 +1,7 @@
+# GetFirmwareVersion.srv
+
+# Request
+
+---
+# Response
+Version version

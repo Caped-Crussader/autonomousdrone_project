@@ -1,0 +1,3 @@
+# RelativeAngleCollection.msg
+
+RelativeAngle[] collection

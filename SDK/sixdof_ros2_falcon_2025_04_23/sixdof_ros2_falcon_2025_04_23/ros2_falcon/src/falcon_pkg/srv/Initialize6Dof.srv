@@ -1,0 +1,8 @@
+# Initialize6Dof.srv
+
+# Request
+Config6Dof config
+
+---
+# Response
+bool success

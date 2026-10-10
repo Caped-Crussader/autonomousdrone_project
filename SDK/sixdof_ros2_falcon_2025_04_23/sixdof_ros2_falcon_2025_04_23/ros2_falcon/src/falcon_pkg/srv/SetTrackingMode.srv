@@ -1,0 +1,7 @@
+# SetTrackingMode.srv
+
+# Request
+string tracking_mode
+
+---
+# Response

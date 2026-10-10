@@ -1,0 +1,3 @@
+# PoseRelativeBeaconCollection.msg
+
+PoseRelativeBeacon[] collection

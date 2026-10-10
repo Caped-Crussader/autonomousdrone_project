@@ -1,0 +1,8 @@
+# InitializeRelativeAngle.srv
+
+# Request
+ConfigRelativeAngle config
+
+---
+# Response
+bool success

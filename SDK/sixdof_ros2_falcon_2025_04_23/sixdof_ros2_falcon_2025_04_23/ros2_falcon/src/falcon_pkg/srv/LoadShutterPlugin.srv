@@ -1,0 +1,7 @@
+# LoadShutterPlugin.srv
+
+# Request
+string path
+
+---
+# Response

@@ -1,0 +1,7 @@
+# SwapMap.srv
+
+# Request
+Beacon[] map
+
+---
+# Response

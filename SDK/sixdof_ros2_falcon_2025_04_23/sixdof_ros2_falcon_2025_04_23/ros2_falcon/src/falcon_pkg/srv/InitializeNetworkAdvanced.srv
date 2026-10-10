@@ -1,0 +1,8 @@
+# InitializeNetworkAdvanced.srv
+
+# Request
+NetworkAdvancedConfig network_advanced_config
+
+---
+# Response
+bool success

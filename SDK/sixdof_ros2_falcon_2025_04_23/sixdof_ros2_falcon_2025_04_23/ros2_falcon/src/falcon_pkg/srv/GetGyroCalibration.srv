@@ -1,0 +1,8 @@
+# GetGyroCalibration.srv
+
+# Request
+ConfigGyroCalibration config_gyro
+
+---
+# Response
+GyroOffset[] calibration

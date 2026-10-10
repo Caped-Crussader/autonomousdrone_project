@@ -1,0 +1,8 @@
+# InitializeRelativeBeacon.srv
+
+# Request
+ConfigRelativeBeacon config
+
+---
+# Response
+bool success

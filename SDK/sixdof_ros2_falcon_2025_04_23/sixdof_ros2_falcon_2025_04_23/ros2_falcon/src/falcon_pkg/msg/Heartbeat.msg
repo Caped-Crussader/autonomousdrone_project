@@ -1,0 +1,5 @@
+# Heartbeat.msg
+
+bool sensor_communication_ok
+string current_tracking_mode
+string current_tracking_mode_state

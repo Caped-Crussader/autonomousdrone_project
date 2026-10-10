@@ -1,0 +1,8 @@
+# InitializeNetwork.srv
+
+# Request
+NetworkConfig network_config
+
+---
+# Response
+bool success
